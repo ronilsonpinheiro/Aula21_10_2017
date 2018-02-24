@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CF88E920-BD17-4C03-BEF1-8AFA548064C8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aula21__10__2017.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.74328197-660E-4A5A-B3FC-1987A2FDDD95" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aula21_10_2017" expanded="True">
+            <Node name="Aula21_10_2017" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Anuncios.xaml" expanded="True">
+                <Node name="Anuncios.xaml.cs" selected="True" />
+              </Node>
+              <Node name="Aula21_10_2017Page.xaml" expanded="True" />
+              <Node name="Detalhe.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Aula21__10__2017.Droid PreferredExecutionTarget="Android.Android_ARMv7a_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>

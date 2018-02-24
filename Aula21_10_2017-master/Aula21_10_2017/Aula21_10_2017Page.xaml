@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage Padding="20" BackgroundColor="#ededed" xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Aula21_10_2017" x:Class="Aula21_10_2017.Aula21_10_2017Page">
+    <ScrollView>
+        <StackLayout>
+            <Image Source="logomarca.png"></Image>
+            <Entry Text="{Binding Login}" Placeholder="Login"></Entry>
+            <Entry Text="{Binding Senha}" IsPassword="true"></Entry>
+            <StackLayout HorizontalOptions="Center" Orientation="Horizontal">
+                <Button StyleClass="Warning" Text="cancelar"></Button>
+                <Button StyleClass="Success" Clicked="Handle_Clicked" Text="entrar"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>    
+</ContentPage>
